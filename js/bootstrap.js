@@ -3498,7 +3498,7 @@
     h2: [],
     h3: [],
     h4: [],
-    h5: [],
+    h2: [],
     h6: [],
     i: [],
     img: ['src', 'srcset', 'alt', 'title', 'width', 'height'],
